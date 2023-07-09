@@ -44,9 +44,9 @@ I am a Backend Engineer from Portugal 🇵🇹
 
 <div>
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmnmv12&exclude_days=Sun%2CSat" />
+  <img style="padding:10px 10px 10px 10px"height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jmnmv12&exclude_days=Sun%2CSat" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-buri1v4rj-jmnmv12.vercel.app/api?username=jmnmv12&show_icons=true&show=reviews" />
+  <img style="padding:10px 10px 10px 10px" height=200 align="center" src="https://github-stats-buri1v4rj-jmnmv12.vercel.app/api?username=jmnmv12&show_icons=true&show=reviews" />
 </a>
 </div>
